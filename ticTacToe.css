@@ -1,0 +1,22 @@
+body{
+  color: orange;
+  background-color: black;
+}
+.perimeter{
+  border: 2px solid black;
+  width: 50%;
+  height: 400px;
+}
+.inside{
+  text-align: center;
+  font-size: 80px;
+  float: left;
+  border: 1px solid orange;
+  width: 32.9%;
+  height: 131px;
+}
+.title{
+  color: orange;
+  font-family: monospace;
+  font-size: 60px;
+}
